@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menugroup1" >
+        <item
+            android:id="@+id/menu1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="RELOAD"/>
+
+        <item
+            android:id="@+id/menu3"
+            android:icon="@mipmap/ic_launcher"
+            android:title="GET URL"/>
+        <item
+            android:id="@+id/menu4"
+            android:icon="@mipmap/ic_launcher"
+            android:title="CLEAR CASH"/>
+    </group>
+
+</menu>
